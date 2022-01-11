@@ -636,7 +636,7 @@ label {
 
 /* COUNTER SECTION */
 #counter {
-  background: url('../images/large_bg_image.jpg?1395266600') 50% 0 repeat-y fixed;
+  background: url('../images/bg.jpg') 50% 0 repeat-y fixed;
 }
 
 .counter-item {
@@ -671,7 +671,7 @@ label {
 
 /* PARTNERS SECTION */
 #partners {
-  background: url('../images/large_bg_image.jpg?1395266600') 50% 0 repeat-y fixed;
+  background: url('../images/bg.jpg') 50% 0 repeat-y fixed;
 }
 
 .partner-logo {
